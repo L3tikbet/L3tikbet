@@ -7,7 +7,7 @@
 </p>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3tikbet&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3tikbet&theme=omni&show_icons=true)
 
 ### 📌 Projeto em destaque
 
