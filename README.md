@@ -6,7 +6,7 @@
   🔬 Interesse em ciência de dados e reconstrução 3D <br/>
 </p>
 
----![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3tikbet&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3tikbet&show_icons=true&theme=omni&hide=contribs)
 ### 📌 Projeto em destaque
 
 - 🔍 **Reconstrução de Superfícies com Imagens SAR**  
