@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td>
-      ![euzinha](leticia_optimized_1000.png)
-    </td>
+      <img src="./leticia_optimized_1000.png" alt="euzinha" width="200"/>
     <td>
       <p>
         🌱 Estudante de Matemática Computacional - 5° semestre - UFCA <br/>
@@ -38,6 +37,8 @@
   <img align="center" alt="Leticia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Leticia-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leticia-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Leticia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 
 </div>
 
@@ -61,9 +62,6 @@
   <a href="https://www.twitch.tv/l3tikbet" target="_blank">
     <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
 
 </p>
 
