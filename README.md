@@ -1,10 +1,9 @@
 <h1 align="center">Olá! Eu sou Maria Leticia 👋</h1>
 
-<!-- ![euzinha](./pictures/leticia_optimized_1000.png) -->
 <table>
   <tr>
     <td>
-      <img src="./Sprint01/Pictures/leticia_optimized_1000.png" alt="euzinha" width="200"/>
+      ![euzinha](leticia_optimized_1000.png)
     </td>
     <td>
       <p>
@@ -62,5 +61,9 @@
   <a href="https://www.twitch.tv/l3tikbet" target="_blank">
     <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
 </p>
 
